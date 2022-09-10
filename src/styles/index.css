@@ -9,4 +9,5 @@ body {
 :root {
   --primary-color: #ff5a5f;
   --shadow: 1px 5px 10px #ddd;
+  --gray: rgba(0, 0, 0, 0.397);
 }
