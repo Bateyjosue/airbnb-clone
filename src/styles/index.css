@@ -5,3 +5,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   box-sizing: border-box;
 }
+
+:root {
+  --primary-color: #ff5a5f;
+}
